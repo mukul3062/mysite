@@ -8,7 +8,7 @@ Technology
 
 * Use python 3.8 or above( better use virtual env)
     You can refer to "Steps to create virtual env" if you don't have virtualenv.
-* Django 2.0.13
+* Django 3.1
 
 Creating env
 ------------
